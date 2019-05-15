@@ -4,8 +4,6 @@
 
 Installs all required dependencies
 
-In the project directory, you can run:
-
 ### Second step `npm start`
 
 Runs the app in the development mode.<br>
