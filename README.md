@@ -1,6 +1,6 @@
 ## Available Scripts
 
-### First step: `npm start`
+### First step: `npm install`
 
 Installs all required dependencies
 
