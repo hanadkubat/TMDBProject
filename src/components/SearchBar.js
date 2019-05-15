@@ -13,7 +13,7 @@ export default function SearchBar(props) {
     clearTimeout(typingTimer);
     typingTimer = setTimeout(() => {
       props.doneTyping(query);
-    }, 2000);
+    }, 1000);
   };
 
   return (
