@@ -21,5 +21,7 @@ Builds the app for production to the `build` folder.<br>
 1. Type in console: npm install -g eslint
 2. To lint all files type in console: npm run lint
 
-**Note: TMDB API Key left intentionally available in project!**
+## Note 
+
+TMDB API Key left intentionally available in project!**
 
